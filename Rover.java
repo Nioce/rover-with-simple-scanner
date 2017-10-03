@@ -27,7 +27,7 @@ public class Rover {
     // helper functions - private, possible useful for abstraction of public methods
     private void die() {
         isAlive = false;
-        System.out.println(name + " goes 'aaaaaakkkkk!' and dies.");
+        System.out.println(name + " goes 'oof!' and dies.");
     }
     
     
